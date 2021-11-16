@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Acord.dir/internet.cpp.o CMakeFiles/Acord.dir/main.cpp.o CMakeFiles/Acord.dir/parsehtml.cpp.o CMakeFiles/Acord.dir/parsesearch.cpp.o CMakeFiles/Acord.dir/sslsocket.cpp.o  -o Acord  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
