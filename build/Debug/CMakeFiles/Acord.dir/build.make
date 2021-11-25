@@ -57,18 +57,18 @@ include CMakeFiles/Acord.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Acord.dir/flags.make
 
-CMakeFiles/Acord.dir/internet.cpp.o: CMakeFiles/Acord.dir/flags.make
-CMakeFiles/Acord.dir/internet.cpp.o: ../../internet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Acord.dir/internet.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Acord.dir/internet.cpp.o -c /home/misha/project/CPP/ACORD/internet.cpp
+CMakeFiles/Acord.dir/getresource.cpp.o: CMakeFiles/Acord.dir/flags.make
+CMakeFiles/Acord.dir/getresource.cpp.o: ../../getresource.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Acord.dir/getresource.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Acord.dir/getresource.cpp.o -c /home/misha/project/CPP/ACORD/getresource.cpp
 
-CMakeFiles/Acord.dir/internet.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Acord.dir/internet.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/misha/project/CPP/ACORD/internet.cpp > CMakeFiles/Acord.dir/internet.cpp.i
+CMakeFiles/Acord.dir/getresource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Acord.dir/getresource.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/misha/project/CPP/ACORD/getresource.cpp > CMakeFiles/Acord.dir/getresource.cpp.i
 
-CMakeFiles/Acord.dir/internet.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Acord.dir/internet.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/misha/project/CPP/ACORD/internet.cpp -o CMakeFiles/Acord.dir/internet.cpp.s
+CMakeFiles/Acord.dir/getresource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Acord.dir/getresource.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/misha/project/CPP/ACORD/getresource.cpp -o CMakeFiles/Acord.dir/getresource.cpp.s
 
 CMakeFiles/Acord.dir/main.cpp.o: CMakeFiles/Acord.dir/flags.make
 CMakeFiles/Acord.dir/main.cpp.o: ../../main.cpp
@@ -83,66 +83,24 @@ CMakeFiles/Acord.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Acord.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/misha/project/CPP/ACORD/main.cpp -o CMakeFiles/Acord.dir/main.cpp.s
 
-CMakeFiles/Acord.dir/parsehtml.cpp.o: CMakeFiles/Acord.dir/flags.make
-CMakeFiles/Acord.dir/parsehtml.cpp.o: ../../parsehtml.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Acord.dir/parsehtml.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Acord.dir/parsehtml.cpp.o -c /home/misha/project/CPP/ACORD/parsehtml.cpp
-
-CMakeFiles/Acord.dir/parsehtml.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Acord.dir/parsehtml.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/misha/project/CPP/ACORD/parsehtml.cpp > CMakeFiles/Acord.dir/parsehtml.cpp.i
-
-CMakeFiles/Acord.dir/parsehtml.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Acord.dir/parsehtml.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/misha/project/CPP/ACORD/parsehtml.cpp -o CMakeFiles/Acord.dir/parsehtml.cpp.s
-
-CMakeFiles/Acord.dir/parsesearch.cpp.o: CMakeFiles/Acord.dir/flags.make
-CMakeFiles/Acord.dir/parsesearch.cpp.o: ../../parsesearch.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Acord.dir/parsesearch.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Acord.dir/parsesearch.cpp.o -c /home/misha/project/CPP/ACORD/parsesearch.cpp
-
-CMakeFiles/Acord.dir/parsesearch.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Acord.dir/parsesearch.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/misha/project/CPP/ACORD/parsesearch.cpp > CMakeFiles/Acord.dir/parsesearch.cpp.i
-
-CMakeFiles/Acord.dir/parsesearch.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Acord.dir/parsesearch.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/misha/project/CPP/ACORD/parsesearch.cpp -o CMakeFiles/Acord.dir/parsesearch.cpp.s
-
-CMakeFiles/Acord.dir/sslsocket.cpp.o: CMakeFiles/Acord.dir/flags.make
-CMakeFiles/Acord.dir/sslsocket.cpp.o: ../../sslsocket.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Acord.dir/sslsocket.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Acord.dir/sslsocket.cpp.o -c /home/misha/project/CPP/ACORD/sslsocket.cpp
-
-CMakeFiles/Acord.dir/sslsocket.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Acord.dir/sslsocket.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/misha/project/CPP/ACORD/sslsocket.cpp > CMakeFiles/Acord.dir/sslsocket.cpp.i
-
-CMakeFiles/Acord.dir/sslsocket.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Acord.dir/sslsocket.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/misha/project/CPP/ACORD/sslsocket.cpp -o CMakeFiles/Acord.dir/sslsocket.cpp.s
-
 # Object files for target Acord
 Acord_OBJECTS = \
-"CMakeFiles/Acord.dir/internet.cpp.o" \
-"CMakeFiles/Acord.dir/main.cpp.o" \
-"CMakeFiles/Acord.dir/parsehtml.cpp.o" \
-"CMakeFiles/Acord.dir/parsesearch.cpp.o" \
-"CMakeFiles/Acord.dir/sslsocket.cpp.o"
+"CMakeFiles/Acord.dir/getresource.cpp.o" \
+"CMakeFiles/Acord.dir/main.cpp.o"
 
 # External object files for target Acord
 Acord_EXTERNAL_OBJECTS =
 
-Acord: CMakeFiles/Acord.dir/internet.cpp.o
+Acord: CMakeFiles/Acord.dir/getresource.cpp.o
 Acord: CMakeFiles/Acord.dir/main.cpp.o
-Acord: CMakeFiles/Acord.dir/parsehtml.cpp.o
-Acord: CMakeFiles/Acord.dir/parsesearch.cpp.o
-Acord: CMakeFiles/Acord.dir/sslsocket.cpp.o
 Acord: CMakeFiles/Acord.dir/build.make
 Acord: /usr/lib/x86_64-linux-gnu/libssl.so
+Acord: curl/lib/libcurl-d.so
+Acord: /usr/lib/x86_64-linux-gnu/libssl.so
 Acord: /usr/lib/x86_64-linux-gnu/libcrypto.so
+Acord: /usr/lib/x86_64-linux-gnu/libz.so
 Acord: CMakeFiles/Acord.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Acord"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Acord"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Acord.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
