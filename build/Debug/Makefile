@@ -2886,6 +2886,33 @@ resolve/fast:
 	$(MAKE) -f curl/tests/server/CMakeFiles/resolve.dir/build.make curl/tests/server/CMakeFiles/resolve.dir/build
 .PHONY : resolve/fast
 
+acord.o: acord.cpp.o
+
+.PHONY : acord.o
+
+# target to build an object file
+acord.cpp.o:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/acord.cpp.o
+.PHONY : acord.cpp.o
+
+acord.i: acord.cpp.i
+
+.PHONY : acord.i
+
+# target to preprocess a source file
+acord.cpp.i:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/acord.cpp.i
+.PHONY : acord.cpp.i
+
+acord.s: acord.cpp.s
+
+.PHONY : acord.s
+
+# target to generate assembly for a file
+acord.cpp.s:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/acord.cpp.s
+.PHONY : acord.cpp.s
+
 getresource.o: getresource.cpp.o
 
 .PHONY : getresource.o
@@ -2939,6 +2966,87 @@ main.s: main.cpp.s
 main.cpp.s:
 	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/main.cpp.s
 .PHONY : main.cpp.s
+
+parsesite.o: parsesite.cpp.o
+
+.PHONY : parsesite.o
+
+# target to build an object file
+parsesite.cpp.o:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/parsesite.cpp.o
+.PHONY : parsesite.cpp.o
+
+parsesite.i: parsesite.cpp.i
+
+.PHONY : parsesite.i
+
+# target to preprocess a source file
+parsesite.cpp.i:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/parsesite.cpp.i
+.PHONY : parsesite.cpp.i
+
+parsesite.s: parsesite.cpp.s
+
+.PHONY : parsesite.s
+
+# target to generate assembly for a file
+parsesite.cpp.s:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/parsesite.cpp.s
+.PHONY : parsesite.cpp.s
+
+searchacord.o: searchacord.cpp.o
+
+.PHONY : searchacord.o
+
+# target to build an object file
+searchacord.cpp.o:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/searchacord.cpp.o
+.PHONY : searchacord.cpp.o
+
+searchacord.i: searchacord.cpp.i
+
+.PHONY : searchacord.i
+
+# target to preprocess a source file
+searchacord.cpp.i:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/searchacord.cpp.i
+.PHONY : searchacord.cpp.i
+
+searchacord.s: searchacord.cpp.s
+
+.PHONY : searchacord.s
+
+# target to generate assembly for a file
+searchacord.cpp.s:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/searchacord.cpp.s
+.PHONY : searchacord.cpp.s
+
+services.o: services.cpp.o
+
+.PHONY : services.o
+
+# target to build an object file
+services.cpp.o:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/services.cpp.o
+.PHONY : services.cpp.o
+
+services.i: services.cpp.i
+
+.PHONY : services.i
+
+# target to preprocess a source file
+services.cpp.i:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/services.cpp.i
+.PHONY : services.cpp.i
+
+services.s: services.cpp.s
+
+.PHONY : services.s
+
+# target to generate assembly for a file
+services.cpp.s:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/services.cpp.s
+.PHONY : services.cpp.s
 
 # Help Target
 help:
@@ -3162,12 +3270,24 @@ help:
 	@echo "... rtspd"
 	@echo "... mqttd"
 	@echo "... resolve"
+	@echo "... acord.o"
+	@echo "... acord.i"
+	@echo "... acord.s"
 	@echo "... getresource.o"
 	@echo "... getresource.i"
 	@echo "... getresource.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... parsesite.o"
+	@echo "... parsesite.i"
+	@echo "... parsesite.s"
+	@echo "... searchacord.o"
+	@echo "... searchacord.i"
+	@echo "... searchacord.s"
+	@echo "... services.o"
+	@echo "... services.i"
+	@echo "... services.s"
 .PHONY : help
 
 

@@ -1,18 +1,20 @@
 #pragma once
-#include"include/getresource.h"
+#include"getresource.h"
+#include"services.h"
+#include"searchacord.h"
 class ACORD{
 public:
     ACORD(){
         ACINTERNET::IncilACINTERNET();
+        search.InitlService(&amdm,1);
     }
     ~ACORD(){
         ACINTERNET::EndACINTERNET();
     }
 public:
-    void SearchAcord(std::string search){
-        
-    }
+   
 
 private:
-
+    SearchAcord search;
+    service amdm;  
 };

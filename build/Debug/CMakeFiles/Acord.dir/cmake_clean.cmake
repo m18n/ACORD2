@@ -1,8 +1,12 @@
 file(REMOVE_RECURSE
   "Acord"
   "Acord.pdb"
+  "CMakeFiles/Acord.dir/acord.cpp.o"
   "CMakeFiles/Acord.dir/getresource.cpp.o"
   "CMakeFiles/Acord.dir/main.cpp.o"
+  "CMakeFiles/Acord.dir/parsesite.cpp.o"
+  "CMakeFiles/Acord.dir/searchacord.cpp.o"
+  "CMakeFiles/Acord.dir/services.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

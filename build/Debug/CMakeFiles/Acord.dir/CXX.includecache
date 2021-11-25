@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/home/misha/project/CPP/ACORD/acord.cpp
+include/acord.h
+/home/misha/project/CPP/ACORD/include/acord.h
+
 /home/misha/project/CPP/ACORD/curl/include/curl/curl.h
 curlver.h
 /home/misha/project/CPP/ACORD/curl/include/curl/curlver.h
@@ -74,9 +78,13 @@ sys/poll.h
 curl.h
 /home/misha/project/CPP/ACORD/curl/include/curl/curl.h
 
-/home/misha/project/CPP/ACORD/getresource.cpp
-include/getresource.h
+/home/misha/project/CPP/ACORD/include/acord.h
+getresource.h
 /home/misha/project/CPP/ACORD/include/getresource.h
+services.h
+/home/misha/project/CPP/ACORD/include/services.h
+searchacord.h
+/home/misha/project/CPP/ACORD/include/searchacord.h
 
 /home/misha/project/CPP/ACORD/include/getresource.h
 iostream
@@ -86,11 +94,29 @@ cstring
 ../curl/include/curl/curl.h
 /home/misha/project/CPP/ACORD/curl/include/curl/curl.h
 
+/home/misha/project/CPP/ACORD/include/parsesite.h
+
+/home/misha/project/CPP/ACORD/include/searchacord.h
+getresource.h
+/home/misha/project/CPP/ACORD/include/getresource.h
+services.h
+/home/misha/project/CPP/ACORD/include/services.h
+
+/home/misha/project/CPP/ACORD/include/services.h
+iostream
+-
+parsesite.h
+/home/misha/project/CPP/ACORD/include/parsesite.h
+
 /home/misha/project/CPP/ACORD/main.cpp
 iostream
 -
 cstring
 -
-include/getresource.h
-/home/misha/project/CPP/ACORD/include/getresource.h
+include/acord.h
+/home/misha/project/CPP/ACORD/include/acord.h
+
+/home/misha/project/CPP/ACORD/searchacord.cpp
+include/searchacord.h
+/home/misha/project/CPP/ACORD/include/searchacord.h
 
