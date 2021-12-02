@@ -12,7 +12,9 @@ public:
         ACINTERNET::EndACINTERNET();
     }
 public:
-   
+   void SearchAcrod(std::string word){
+       search.SearchAcords(word);
+   }
 
 private:
     SearchAcord search;

@@ -1,6 +1,9 @@
 #pragma once
 #include "getresource.h"
 #include "services.h"
+#include <cstring>
+#include <codecvt>
+#include <locale>
 class SearchAcord
 {
 private:
@@ -22,8 +25,6 @@ public:
     }
 public:
     void InitlService(service *arrsearch, int sizeservice);
-    
-    // void SearchAcord(std::string res){
-
-    // }
+    std::string GetSearchstrGoogle(std::string str);
+    void SearchAcords(std::string res);
 };
