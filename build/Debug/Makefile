@@ -2886,6 +2886,33 @@ resolve/fast:
 	$(MAKE) -f curl/tests/server/CMakeFiles/resolve.dir/build.make curl/tests/server/CMakeFiles/resolve.dir/build
 .PHONY : resolve/fast
 
+StrParse.o: StrParse.cpp.o
+
+.PHONY : StrParse.o
+
+# target to build an object file
+StrParse.cpp.o:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/StrParse.cpp.o
+.PHONY : StrParse.cpp.o
+
+StrParse.i: StrParse.cpp.i
+
+.PHONY : StrParse.i
+
+# target to preprocess a source file
+StrParse.cpp.i:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/StrParse.cpp.i
+.PHONY : StrParse.cpp.i
+
+StrParse.s: StrParse.cpp.s
+
+.PHONY : StrParse.s
+
+# target to generate assembly for a file
+StrParse.cpp.s:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/StrParse.cpp.s
+.PHONY : StrParse.cpp.s
+
 acord.o: acord.cpp.o
 
 .PHONY : acord.o
@@ -2912,6 +2939,33 @@ acord.s: acord.cpp.s
 acord.cpp.s:
 	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/acord.cpp.s
 .PHONY : acord.cpp.s
+
+acr.o: acr.cpp.o
+
+.PHONY : acr.o
+
+# target to build an object file
+acr.cpp.o:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/acr.cpp.o
+.PHONY : acr.cpp.o
+
+acr.i: acr.cpp.i
+
+.PHONY : acr.i
+
+# target to preprocess a source file
+acr.cpp.i:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/acr.cpp.i
+.PHONY : acr.cpp.i
+
+acr.s: acr.cpp.s
+
+.PHONY : acr.s
+
+# target to generate assembly for a file
+acr.cpp.s:
+	$(MAKE) -f CMakeFiles/Acord.dir/build.make CMakeFiles/Acord.dir/acr.cpp.s
+.PHONY : acr.cpp.s
 
 getresource.o: getresource.cpp.o
 
@@ -3270,9 +3324,15 @@ help:
 	@echo "... rtspd"
 	@echo "... mqttd"
 	@echo "... resolve"
+	@echo "... StrParse.o"
+	@echo "... StrParse.i"
+	@echo "... StrParse.s"
 	@echo "... acord.o"
 	@echo "... acord.i"
 	@echo "... acord.s"
+	@echo "... acr.o"
+	@echo "... acr.i"
+	@echo "... acr.s"
 	@echo "... getresource.o"
 	@echo "... getresource.i"
 	@echo "... getresource.s"

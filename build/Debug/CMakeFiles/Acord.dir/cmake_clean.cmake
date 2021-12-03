@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
   "Acord"
   "Acord.pdb"
+  "CMakeFiles/Acord.dir/StrParse.cpp.o"
   "CMakeFiles/Acord.dir/acord.cpp.o"
+  "CMakeFiles/Acord.dir/acr.cpp.o"
   "CMakeFiles/Acord.dir/getresource.cpp.o"
   "CMakeFiles/Acord.dir/main.cpp.o"
   "CMakeFiles/Acord.dir/parsesite.cpp.o"

@@ -1,9 +1,12 @@
 #pragma once
 #include "getresource.h"
 #include "services.h"
+#include<vector>
 #include <cstring>
 #include <codecvt>
+#include"parsesite.h"
 #include <locale>
+#include"acr.h"
 class SearchAcord
 {
 private:
@@ -24,7 +27,8 @@ public:
     {
     }
 public:
+    acr ParseHeaderGoogle(char* html,int size,int number);
     void InitlService(service *arrsearch, int sizeservice);
     std::string GetSearchstrGoogle(std::string str);
-    void SearchAcords(std::string res);
+    std::vector<acr>& SearchAcords(std::string res);
 };

@@ -4,5 +4,5 @@
 struct service
 {
     std::string url;
-    ParseSite* parsesite;
+    
 };

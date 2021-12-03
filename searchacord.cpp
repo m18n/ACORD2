@@ -17,15 +17,21 @@ std::string SearchAcord::GetSearchstrGoogle(std::string str){
     return str2;
     
 }
-void  SearchAcord::SearchAcords(std::string res){
+acr SearchAcord::ParseHeaderGoogle(char* html,int size,int number){
+    int div=ParseSite::SearchAtribute(html,size,"id","main");
+    std::cout<<"DIV: "<<div<<"  "<<html[div]<<"\n";
+}
+std::vector<acr>& SearchAcord::SearchAcords(std::string res){
     std::cout<<"Start Search\n";
     int size=0;
-    std::string res2=GetSearchstrGoogle("Пачка Сигарет");
+    std::string res2=GetSearchstrGoogle(res);
     int start=clock();
-    char* search=ACINTERNET::GetResource("https://www.google.com/search?q="+res2+"аккорды+site:amdm.ru",size);
+    char* search=ACINTERNET::GetResource("https://www.google.com/search?q="+res2+"+аккорды+site:amdm.ru",size);
     int end=clock();
     
     std::cout<<"Zapros: "<<end-start<<"\n";
-    std::cout<<search<<"\n";
+     std::cout<<search<<"\n";
+    ParseHeaderGoogle(search,size,1);
+   
     delete [] search;
 }

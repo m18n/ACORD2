@@ -1067,12 +1067,12 @@ curl/tests/libtest/CMakeFiles/lib1936.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1934.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1934.dir/build.make curl/tests/libtest/CMakeFiles/lib1934.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1934.dir/build.make curl/tests/libtest/CMakeFiles/lib1934.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=39 "Built target lib1934"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1934"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1934.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1934.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1934.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1934.dir/rule
@@ -1310,12 +1310,12 @@ curl/tests/libtest/CMakeFiles/lib1908.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1906.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1906.dir/build.make curl/tests/libtest/CMakeFiles/lib1906.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1906.dir/build.make curl/tests/libtest/CMakeFiles/lib1906.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=34 "Built target lib1906"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1906"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1906.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1906.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1906.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1906.dir/rule
@@ -1607,12 +1607,12 @@ curl/tests/libtest/CMakeFiles/lib1558.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1555.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1555.dir/build.make curl/tests/libtest/CMakeFiles/lib1555.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1555.dir/build.make curl/tests/libtest/CMakeFiles/lib1555.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=27 "Built target lib1555"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1555"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1555.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1555.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1555.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1555.dir/rule
@@ -1661,12 +1661,12 @@ curl/tests/libtest/CMakeFiles/lib1553.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1552.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1552.dir/build.make curl/tests/libtest/CMakeFiles/lib1552.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1552.dir/build.make curl/tests/libtest/CMakeFiles/lib1552.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=26 "Built target lib1552"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1552"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1552.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1552.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1552.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1552.dir/rule
@@ -1688,12 +1688,12 @@ curl/tests/libtest/CMakeFiles/lib1552.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1542.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1542.dir/build.make curl/tests/libtest/CMakeFiles/lib1542.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1542.dir/build.make curl/tests/libtest/CMakeFiles/lib1542.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=25 "Built target lib1542"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1542"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1542.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1542.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1542.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1542.dir/rule
@@ -1715,12 +1715,12 @@ curl/tests/libtest/CMakeFiles/lib1542.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1540.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1540.dir/build.make curl/tests/libtest/CMakeFiles/lib1540.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1540.dir/build.make curl/tests/libtest/CMakeFiles/lib1540.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1540"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=25 "Built target lib1540"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1540.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1540.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1540.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1540.dir/rule
@@ -1904,12 +1904,12 @@ curl/tests/libtest/CMakeFiles/lib1530.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1933.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1933.dir/build.make curl/tests/libtest/CMakeFiles/lib1933.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1933.dir/build.make curl/tests/libtest/CMakeFiles/lib1933.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1933"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=39 "Built target lib1933"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1933.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1933.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1933.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1933.dir/rule
@@ -2336,12 +2336,12 @@ curl/tests/libtest/CMakeFiles/lib1913.dir/clean:
 curl/tests/libtest/CMakeFiles/lib544.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib544.dir/build.make curl/tests/libtest/CMakeFiles/lib544.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib544.dir/build.make curl/tests/libtest/CMakeFiles/lib544.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=54 "Built target lib544"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib544"
 .PHONY : curl/tests/libtest/CMakeFiles/lib544.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib544.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib544.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib544.dir/rule
@@ -2444,12 +2444,12 @@ curl/tests/libtest/CMakeFiles/lib661.dir/clean:
 curl/tests/libtest/CMakeFiles/lib556.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib556.dir/build.make curl/tests/libtest/CMakeFiles/lib556.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib556.dir/build.make curl/tests/libtest/CMakeFiles/lib556.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib556"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=57 "Built target lib556"
 .PHONY : curl/tests/libtest/CMakeFiles/lib556.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib556.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib556.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib556.dir/rule
@@ -2552,12 +2552,12 @@ curl/tests/libtest/CMakeFiles/lib673.dir/clean:
 curl/tests/libtest/CMakeFiles/lib533.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib533.dir/build.make curl/tests/libtest/CMakeFiles/lib533.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib533.dir/build.make curl/tests/libtest/CMakeFiles/lib533.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib533"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=52 "Built target lib533"
 .PHONY : curl/tests/libtest/CMakeFiles/lib533.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib533.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib533.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib533.dir/rule
@@ -2579,12 +2579,12 @@ curl/tests/libtest/CMakeFiles/lib533.dir/clean:
 curl/tests/libtest/CMakeFiles/lib509.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib509.dir/build.make curl/tests/libtest/CMakeFiles/lib509.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib509.dir/build.make curl/tests/libtest/CMakeFiles/lib509.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=45 "Built target lib509"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib509"
 .PHONY : curl/tests/libtest/CMakeFiles/lib509.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib509.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib509.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib509.dir/rule
@@ -3173,12 +3173,12 @@ curl/tests/libtest/CMakeFiles/lib1504.dir/clean:
 curl/tests/libtest/CMakeFiles/libprereq.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/libprereq.dir/build.make curl/tests/libtest/CMakeFiles/libprereq.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/libprereq.dir/build.make curl/tests/libtest/CMakeFiles/libprereq.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target libprereq"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=91 "Built target libprereq"
 .PHONY : curl/tests/libtest/CMakeFiles/libprereq.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/libprereq.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/libprereq.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/libprereq.dir/rule
@@ -3335,12 +3335,12 @@ curl/tests/libtest/CMakeFiles/lib1550.dir/clean:
 curl/tests/libtest/CMakeFiles/lib537.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib537.dir/build.make curl/tests/libtest/CMakeFiles/lib537.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib537.dir/build.make curl/tests/libtest/CMakeFiles/lib537.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=52 "Built target lib537"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib537"
 .PHONY : curl/tests/libtest/CMakeFiles/lib537.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib537.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib537.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib537.dir/rule
@@ -3443,12 +3443,12 @@ curl/tests/libtest/CMakeFiles/lib579.dir/clean:
 curl/tests/libtest/CMakeFiles/lib506.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib506.dir/build.make curl/tests/libtest/CMakeFiles/lib506.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib506.dir/build.make curl/tests/libtest/CMakeFiles/lib506.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=44 "Built target lib506"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib506"
 .PHONY : curl/tests/libtest/CMakeFiles/lib506.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib506.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib506.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib506.dir/rule
@@ -3929,12 +3929,12 @@ curl/tests/libtest/CMakeFiles/lib559.dir/clean:
 curl/tests/libtest/CMakeFiles/lib543.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib543.dir/build.make curl/tests/libtest/CMakeFiles/lib543.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib543.dir/build.make curl/tests/libtest/CMakeFiles/lib543.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib543"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=54 "Built target lib543"
 .PHONY : curl/tests/libtest/CMakeFiles/lib543.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib543.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib543.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib543.dir/rule
@@ -4010,12 +4010,12 @@ curl/tests/libtest/CMakeFiles/lib651.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1554.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1554.dir/build.make curl/tests/libtest/CMakeFiles/lib1554.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1554.dir/build.make curl/tests/libtest/CMakeFiles/lib1554.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1554"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=27 "Built target lib1554"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1554.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1554.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1554.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1554.dir/rule
@@ -4037,12 +4037,12 @@ curl/tests/libtest/CMakeFiles/lib1554.dir/clean:
 curl/tests/libtest/CMakeFiles/lib508.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib508.dir/build.make curl/tests/libtest/CMakeFiles/lib508.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib508.dir/build.make curl/tests/libtest/CMakeFiles/lib508.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib508"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=45 "Built target lib508"
 .PHONY : curl/tests/libtest/CMakeFiles/lib508.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib508.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib508.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib508.dir/rule
@@ -4172,12 +4172,12 @@ curl/tests/libtest/CMakeFiles/lib590.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1532.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1532.dir/build.make curl/tests/libtest/CMakeFiles/lib1532.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1532.dir/build.make curl/tests/libtest/CMakeFiles/lib1532.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=21 "Built target lib1532"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1532"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1532.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1532.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1532.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1532.dir/rule
@@ -4199,12 +4199,12 @@ curl/tests/libtest/CMakeFiles/lib1532.dir/clean:
 curl/tests/libtest/CMakeFiles/lib557.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib557.dir/build.make curl/tests/libtest/CMakeFiles/lib557.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib557.dir/build.make curl/tests/libtest/CMakeFiles/lib557.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=57 "Built target lib557"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib557"
 .PHONY : curl/tests/libtest/CMakeFiles/lib557.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib557.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib557.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib557.dir/rule
@@ -4334,12 +4334,12 @@ curl/tests/libtest/CMakeFiles/lib567.dir/clean:
 curl/tests/libtest/CMakeFiles/lib668.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib668.dir/build.make curl/tests/libtest/CMakeFiles/lib668.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib668.dir/build.make curl/tests/libtest/CMakeFiles/lib668.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=72 "Built target lib668"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib668"
 .PHONY : curl/tests/libtest/CMakeFiles/lib668.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib668.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib668.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib668.dir/rule
@@ -4388,12 +4388,12 @@ curl/tests/libtest/CMakeFiles/lib568.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1905.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1905.dir/build.make curl/tests/libtest/CMakeFiles/lib1905.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1905.dir/build.make curl/tests/libtest/CMakeFiles/lib1905.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1905"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=34 "Built target lib1905"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1905.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1905.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1905.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1905.dir/rule
@@ -4550,12 +4550,12 @@ curl/tests/libtest/CMakeFiles/lib572.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1515.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1515.dir/build.make curl/tests/libtest/CMakeFiles/lib1515.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1515.dir/build.make curl/tests/libtest/CMakeFiles/lib1515.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1515"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=16 "Built target lib1515"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1515.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1515.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1515.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1515.dir/rule
@@ -4766,12 +4766,12 @@ curl/tests/libtest/CMakeFiles/lib645.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1531.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1531.dir/build.make curl/tests/libtest/CMakeFiles/lib1531.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1531.dir/build.make curl/tests/libtest/CMakeFiles/lib1531.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1531"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=21 "Built target lib1531"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1531.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1531.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1531.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1531.dir/rule
@@ -4901,12 +4901,12 @@ curl/tests/libtest/CMakeFiles/lib1156.dir/clean:
 curl/tests/libtest/CMakeFiles/lib591.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib591.dir/build.make curl/tests/libtest/CMakeFiles/lib591.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib591.dir/build.make curl/tests/libtest/CMakeFiles/lib591.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib591"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=67 "Built target lib591"
 .PHONY : curl/tests/libtest/CMakeFiles/lib591.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib591.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib591.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib591.dir/rule
@@ -4928,12 +4928,12 @@ curl/tests/libtest/CMakeFiles/lib591.dir/clean:
 curl/tests/libtest/CMakeFiles/lib597.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib597.dir/build.make curl/tests/libtest/CMakeFiles/lib597.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib597.dir/build.make curl/tests/libtest/CMakeFiles/lib597.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=67 "Built target lib597"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib597"
 .PHONY : curl/tests/libtest/CMakeFiles/lib597.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib597.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib597.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib597.dir/rule
@@ -5225,12 +5225,12 @@ curl/tests/libtest/CMakeFiles/lib671.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1508.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1508.dir/build.make curl/tests/libtest/CMakeFiles/lib1508.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1508.dir/build.make curl/tests/libtest/CMakeFiles/lib1508.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1508"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=13 "Built target lib1508"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1508.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1508.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1508.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1508.dir/rule
@@ -5603,12 +5603,12 @@ curl/tests/libtest/CMakeFiles/lib500.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1509.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1509.dir/build.make curl/tests/libtest/CMakeFiles/lib1509.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1509.dir/build.make curl/tests/libtest/CMakeFiles/lib1509.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=13 "Built target lib1509"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1509"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1509.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1509.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1509.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1509.dir/rule
@@ -5657,12 +5657,12 @@ curl/tests/libtest/CMakeFiles/lib1935.dir/clean:
 curl/tests/libtest/CMakeFiles/lib505.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib505.dir/build.make curl/tests/libtest/CMakeFiles/lib505.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib505.dir/build.make curl/tests/libtest/CMakeFiles/lib505.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib505"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=44 "Built target lib505"
 .PHONY : curl/tests/libtest/CMakeFiles/lib505.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib505.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib505.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib505.dir/rule
@@ -5711,12 +5711,12 @@ curl/tests/libtest/CMakeFiles/lib676.dir/clean:
 curl/tests/libtest/CMakeFiles/lib667.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib667.dir/build.make curl/tests/libtest/CMakeFiles/lib667.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib667.dir/build.make curl/tests/libtest/CMakeFiles/lib667.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib667"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=72 "Built target lib667"
 .PHONY : curl/tests/libtest/CMakeFiles/lib667.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib667.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib667.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib667.dir/rule
@@ -5927,12 +5927,12 @@ curl/tests/libtest/CMakeFiles/lib1514.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1551.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1551.dir/build.make curl/tests/libtest/CMakeFiles/lib1551.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1551.dir/build.make curl/tests/libtest/CMakeFiles/lib1551.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1551"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=26 "Built target lib1551"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1551.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1551.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1551.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1551.dir/rule
@@ -5981,12 +5981,12 @@ curl/tests/libtest/CMakeFiles/libntlmconnect.dir/clean:
 curl/tests/libtest/CMakeFiles/lib1517.dir/all: curl/lib/CMakeFiles/libcurl.dir/all
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1517.dir/build.make curl/tests/libtest/CMakeFiles/lib1517.dir/depend
 	$(MAKE) -f curl/tests/libtest/CMakeFiles/lib1517.dir/build.make curl/tests/libtest/CMakeFiles/lib1517.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=16 "Built target lib1517"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num= "Built target lib1517"
 .PHONY : curl/tests/libtest/CMakeFiles/lib1517.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/libtest/CMakeFiles/lib1517.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/libtest/CMakeFiles/lib1517.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/libtest/CMakeFiles/lib1517.dir/rule
@@ -6251,12 +6251,12 @@ curl/tests/server/CMakeFiles/rtspd.dir/clean:
 curl/tests/server/CMakeFiles/mqttd.dir/all:
 	$(MAKE) -f curl/tests/server/CMakeFiles/mqttd.dir/build.make curl/tests/server/CMakeFiles/mqttd.dir/depend
 	$(MAKE) -f curl/tests/server/CMakeFiles/mqttd.dir/build.make curl/tests/server/CMakeFiles/mqttd.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=91,92 "Built target mqttd"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/misha/project/CPP/ACORD/build/Debug/CMakeFiles --progress-num=92 "Built target mqttd"
 .PHONY : curl/tests/server/CMakeFiles/mqttd.dir/all
 
 # Build rule for subdir invocation for target.
 curl/tests/server/CMakeFiles/mqttd.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 curl/tests/server/CMakeFiles/mqttd.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/misha/project/CPP/ACORD/build/Debug/CMakeFiles 0
 .PHONY : curl/tests/server/CMakeFiles/mqttd.dir/rule
